@@ -42,7 +42,7 @@ if sys.platform.startswith("win"):
 executor = ThreadPoolExecutor(max_workers=5)
 
 # Константы
-API_TOKEN = "7587505497:AAFR7udM8YYnJ7u0cz0sYDCX_93Zri0lC2E"
+API_TOKEN = 
 ADMIN_USERNAME = '@lprost'
 ORDER_CHANNEL = -1002310332672
 MAX_ROWS_PER_FILE = 1000
